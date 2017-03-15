@@ -1,0 +1,12 @@
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+#one{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: fixed;
+}
+
